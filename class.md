@@ -1,4 +1,5 @@
 Day6 March 17th
 
 ***THOUGHTS:*** python is an OOP language .Object is simply a collection of data.
-***link***
+Thoughts: waratheese🥲😂
+***link***https://github.com/A-c-e-1/100DaysofCode/blob/main/class.md
