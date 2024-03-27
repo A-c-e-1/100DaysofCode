@@ -5,4 +5,4 @@ we have many methods to know more info or edit our strings
 
 ***Thoughts:*** Python Strings Are unique they have -ve indexes.
 
-***link*** 
+***link*** https://github.com/A-c-e-1/100DaysofCode/blob/main/Day%2012/string.py
